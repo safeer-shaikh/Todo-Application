@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+	background-image: url(cover.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.valuesHere{
+	font-size: 30px;
+	font-style: italic;
+	padding: 10px;
+}
+
+.btn{
+	color: red;
+	margin-left: 10px;
+	height: 30px;
+}
+
+.editButton{
+	color: #0C8818;
+	margin-left: 15px;
+	height: 30px;
+	width: 70px;
+}
+
+.input{
+	height: 30px;
+	width: 250px;
+	font-size: 20px;
+}
+
+.addButton{
+	height: 30px;
+	font-size: 18px;
+	color: #0C8818;
+}
+
+.deleteAllButton{
+	height: 30px;
+	font-size: 18px;
+	color: red;
+}
+
+.footer{
+	margin-top: 515px;
+	background-color: #fff;
+}
